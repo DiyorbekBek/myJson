@@ -1,0 +1,32 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "image": "https://npr.brightspotcdn.com/dims4/default/1acd392/2147483647/strip/true/crop/3024x1705+0+1098/resize/1220x688!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F14%2Fbf2c82054dd5a79eeea13fadad5d%2Fimg-3977.jpg",
+      "title": "Crime & Courts",
+      "author": "Hannah Davis-Reid",
+      "body": "On Friday, a jury unanimously ruled that Kirk Bangstad, owner of Minocqua Brewing Company, owes Lakeland Times owner Gregg Walker $750,000 for defamation."
+    },
+    {
+      "id": 2,
+      "image": "https://npr.brightspotcdn.com/dims4/default/7308ca8/2147483647/strip/true/crop/4000x3000+0+0/resize/1760x1320!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2Fe1%2F5dd7fa404722a9d398e26bada5b0%2F20231031-131644.jpg",
+      "title": "Business & Economics",
+      "author": "Katie Thoresen",
+      "body": "DOA Sec. encourages people that may need it to apply early for energy assistance"
+    },
+    {
+      "id": 3,
+      "image": "https://npr.brightspotcdn.com/dims4/default/1aff2a0/2147483647/strip/true/crop/5387x3589+0+0/resize/1760x1172!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Fba%2Fd8c09eb94dc0bd9872f59fa86e41%2Fcafo.jpg",
+      "title": "Energy & Environment",
+      "author": "Mark Moran",
+      "body": "WI small-farm advocates push back on CAFOs"
+    },
+    {
+      "id": 4,
+      "image": "https://npr.brightspotcdn.com/dims4/default/5ab3b4a/2147483647/strip/true/crop/960x720+0+0/resize/1760x1320!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F35%2F9938e0774511952d74a4e00faa6a%2Fmerrill-house-fire.jpg",
+      "title": "Local News",
+      "author": "Katie Thoresen",
+      "body": "The Merrill Fire Department said the fire had already spread to a significant portion of the home on Jefferson Street by the time fire crews arrived."
+    }
+  ]
+}
